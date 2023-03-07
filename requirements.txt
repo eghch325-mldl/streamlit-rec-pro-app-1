@@ -1,6 +1,4 @@
-pickle
 pandas
-streamlit
 numpy
 sklearn.feature_extraction.text
 sklearn.metrics.pairwise
